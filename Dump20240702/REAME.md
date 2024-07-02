@@ -1,0 +1,1 @@
+This project covers the basic of database from creating of schema,tables,views,procedures and functions
